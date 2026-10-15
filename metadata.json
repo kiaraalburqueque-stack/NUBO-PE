@@ -1,0 +1,6 @@
+{
+  "name": "NUBO-PE | Monitor Bioclimático & Android Studio",
+  "description": "Aplicación Android & Web para el sensor de aire NUBO-PE Pebble con previsión bioclimática, ventilación guiada, diagnóstico de calidad del aire y código nativo Kotlin Jetpack Compose exportable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
